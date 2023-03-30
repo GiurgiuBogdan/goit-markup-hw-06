@@ -297,6 +297,7 @@
     border: 2px solid #2196F3;
     border-radius: 4px;
     outline: none;
+    color: #2196F3;  
   }
 
   .form-item input {
